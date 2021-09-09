@@ -36,7 +36,7 @@
     "openshift-logos-icon": "1.7.1",
     "patternfly": "^3.59.1",
     "patternfly-react": "2.32.3",
-    "patternfly-react-extensions": "2.18.4",
+    "patternfly-react-extensions": "2.20.9",
     "plotly.js": "1.47.3",
     "prop-types": "15.6.x",
     "react": "16.8.6",
