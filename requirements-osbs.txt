@@ -12,7 +12,7 @@ aws-xray-sdk==2.4.3
 azure-core==1.8.0
 azure-storage-blob==12.4.0
 Authlib==1.0.0a1
-Babel==2.8.0
+Babel==2.9.1
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 bencode.py==2.1.0
@@ -98,7 +98,7 @@ orderedmultidict==1.0.1
 oslo.config==7.0.0
 oslo.i18n==3.25.1
 oslo.serialization==2.29.2
-oslo.utils==3.42.1
+oslo.utils==4.8.1
 os-service-types==1.7.0
 pathlib2==2.3.5
 pathspec==0.7.0
@@ -132,7 +132,7 @@ python-editor==1.0.4
 python-etcd @ git+https://github.com/DevTable/python-etcd.git@f1168cb02a2a8c83bec1108c6fcd8615ef463b14
 python-gitlab==2.0.0
 python-keystoneclient==3.22.0
-python-ldap==3.2.0
+python-ldap==3.4.0
 python-magic==0.4.15
 python-swiftclient==3.8.1
 pytz==2019.3
@@ -172,7 +172,7 @@ toml==0.10.2
 toposort==1.5
 txaio==20.4.1
 tzlocal==2.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 waitress==1.4.2
 webencodings==0.5.1
 WebOb==1.8.6
