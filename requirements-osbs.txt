@@ -139,7 +139,7 @@ pytz==2019.3
 PyYAML==5.4
 raven==6.10.0
 recaptcha2==0.1
-redis==3.3.11
+redis==4.3.6
 redlock==1.2.0
 rehash==1.0.0
 reportlab==3.5.34
