@@ -142,7 +142,7 @@ recaptcha2==0.1
 redis==3.3.11
 redlock==1.2.0
 rehash==1.0.0
-reportlab==3.5.34
+reportlab==3.6.13
 requests==2.22.0
 requests-aws4auth==0.9
 requests-file==1.4.3
