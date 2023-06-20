@@ -56,7 +56,7 @@
     "redux": "4.0.1",
     "sanitize-html": "1.x",
     "screenfull": "4.x",
-    "semver": "^6.0.0",
+    "semver": "^7.5.2",
     "showdown": "1.8.x",
     "text-encoding": "0.x",
     "typesafe-actions": "^4.2.1",
