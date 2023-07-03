@@ -188,7 +188,7 @@ zope.interface==5.1.2
 
 # Build dependencies
 Cython==0.29.23
-Pygments==2.9.0
+Pygments==2.15.0
 backcall==0.2.0
 flit-core==3.2.0
 ipython-genutils==0.2.0
