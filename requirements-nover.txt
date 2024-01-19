@@ -85,3 +85,5 @@ xhtml2pdf
 recaptcha2
 mockredispy
 yapf
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.3.8 # not directly required, pinned by Snyk to avoid a vulnerability
