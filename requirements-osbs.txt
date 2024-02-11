@@ -203,3 +203,4 @@ ptyprocess==0.7.0
 traitlets==5.0.5
 traitlets==5.0.5
 wcwidth==0.2.5
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
