@@ -57,7 +57,7 @@ gevent==1.4.0
 gipc==1.0.1
 greenlet==0.4.15
 grpcio==1.30.0
-gunicorn==20.0.4
+gunicorn==22.0.0
 hashids==1.2.0
 hiredis==1.0.1
 html5lib==1.0.1
