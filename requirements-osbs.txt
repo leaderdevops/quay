@@ -120,7 +120,7 @@ pycparser==2.20
 PyGithub==1.45
 PyJWT==1.7.1
 pymemcache==3.0.0
-PyMySQL==0.9.3
+PyMySQL==1.1.1
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 #PyPDF2==1.26.0
