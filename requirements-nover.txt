@@ -85,3 +85,4 @@ xhtml2pdf
 recaptcha2
 mockredispy
 yapf
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
