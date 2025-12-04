@@ -104,7 +104,7 @@ pathlib2==2.3.5
 pathspec==0.7.0
 pathvalidate==2.0.1
 pbr==5.4.4
-peewee==3.13.1
+peewee==3.18.3
 Pillow==8.2.0
 pip==20.2.3
 pipdeptree==1.0.0
@@ -177,7 +177,7 @@ waitress==1.4.2
 webencodings==0.5.1
 WebOb==1.8.6
 websocket-client==0.57.0
-Werkzeug==0.16.1
+Werkzeug==3.1.4
 wheel==0.35.1
 wrapt==1.11.2
 xhtml2pdf==0.2.4
